@@ -1,0 +1,7 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+Gemfile.lock
+_posts/2026-03-10-welcome-to-jekyll.markdown
